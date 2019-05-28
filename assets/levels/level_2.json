@@ -1,0 +1,134 @@
+{
+	"layout": {
+		"scale": 64,
+		"size": [48, 11],
+		"start": [1, 7],
+		"goal": [44, 5, 2, 5]
+	},
+
+	"physics": {
+		"gravity": 1.5,
+		"terminal_velocity": 36
+	},
+
+	"music": "assets/sounds/cavemusic.ogg",
+
+	"background": {
+		"color": [0, 0, 0],
+		"image1": "assets/images/backgrounds/Sky.png",
+		"image2": "assets/images/tiles/platformPack_tile017.png",
+		"parallax_speed1": 0.6,
+		"parallax_speed2": 0.3
+	},
+
+	"tiles": {
+		"midground": [
+			[44.8, 6, "FlagTop"],
+			[44.8, 7, "FlagPole"],
+			[44.8, 8, "FlagPole"],
+			[44.8, 9, "FlagPole"]
+		],
+
+		"main": [
+			[1, 10, "Cave Grass"],
+			[2, 10, "Cave Grass"],
+			[3, 10, "Cave Grass"],
+			[0, 10, "Cave Grass"],
+			[4, 10, "Cave Grass"],
+			[5, 10, "Cave Grass"],
+			[6, 10, "Cave Grass"],
+			[7, 10, "Cave Grass"],
+			[13, 10, "Cave Grass"],
+			[14, 10, "Cave Grass"],
+			[15, 10, "Cave Grass"],
+			[16, 10, "Cave Grass"],
+			[17, 10, "Cave Grass"],
+			[18, 10, "Cave Grass"],
+			[19, 10, "Cave Grass"],
+			[20, 10, "Cave Grass"],
+			[21, 10, "Cave Grass"],
+			[22, 10, "Cave Grass"],
+			[23, 10, "Cave Grass"],
+			[24, 10, "Cave Grass"],
+			[25, 10, "Cave Grass"],
+			[26, 10, "Cave Grass"],
+			[27, 10, "Cave Grass"],
+			[28, 10, "Cave Grass"],
+			[29, 10, "Cave Grass"],
+			[30, 10, "Cave Grass"],
+			[31, 10, "Cave Grass"],
+			[32, 10, "Cave Grass"],
+			[33, 10, "Cave Grass"],
+			[34, 10, "Cave Grass"],
+			[35, 10, "Cave Grass"],
+			[36, 10, "Cave Grass"],
+			[37, 10, "Cave Grass"],
+			[38, 10, "Cave Grass"],
+			[39, 10, "Cave Grass"],
+			[40, 10, "Cave Grass"],
+			[41, 10, "Cave Grass"],
+			[42, 10, "Cave Grass"],
+			[43, 10, "Cave Grass"],
+			[44, 10, "Cave Grass"],
+			[45, 10, "Cave Grass"],
+			[46, 10, "Cave Grass"],
+			[47, 10, "Cave Grass"],
+
+			[5, 9, "Platform 2"],
+			[6, 9, "Platform 2"],
+			[7, 9, "Platform 2"],
+			[6, 8, "Platform 2"],
+			[7, 8, "Platform 2"],
+			[7, 7, "Platform 2"],
+
+			[13, 5, "Platform 2"],
+			[14, 5, "Platform 2"],
+			[15, 5, "Platform 2"],
+			[16, 5, "Platform 2"],
+			[17, 5, "Platform 2"],
+
+			[22, 9, "Platform 2"],
+			[23, 9, "Platform 2"],
+			[24, 9, "Platform 2"],
+			[25, 9, "Platform 2"],
+			[26, 9, "Platform 2"],
+			[23, 8, "Platform 2"],
+			[24, 8, "Platform 2"],
+			[25, 8, "Platform 2"],
+			[24, 7, "Platform 2"]
+			
+
+		],
+
+		"foreground": [
+			[19, 9, "Plant"],
+			[34, 9, "Plant"]
+		]
+	},
+
+	"items": [
+		[10, 4, "Gem"],
+		[20, 6, "Gem"],
+		[29, 7, "Gem"],
+		[34, 5, "Gem"]
+	],
+
+	"keys": [
+
+	],
+
+	"chests": [
+
+	],
+
+	"warps": [
+
+	],
+
+	"enemies": [
+		[11, 4, "PlatformEnemy"],
+		[18, 9, "BasicEnemy"],
+		[30, 7, "PlatformEnemy"],
+		[34, 5, "PlatformEnemy"]
+	]
+}
