@@ -19,3 +19,15 @@ Controls are split into two sections: the keyboard controls and the XBox 360 con
 **A** - Jump
 **X** - Shoot
 **Start** - Begin Game, Restart, Game
+
+### The Game
+
+#### Objective
+The objective of the game is to reach the flag at the end of each level.
+
+#### Score
+Your score is counted in the top right of the screen. There are two things that can give you score.
+
+##### Gems
+The gems in this game are similar to coins in most games.
+![alt text](https://github.com/CactusBro74/i-have-no-clue/raw/master/assets/images/Gem.png "Gem")
