@@ -9,4 +9,13 @@ One may ask, "Why exactly does this game have such a strange name?" Well, there'
 Controls are split into two sections: the keyboard controls and the XBox 360 controller controls. The game detects if there is a controller plugged in, and if there is, automatically locks its controls to the controller. If there is no controller plugged into the computer, the game defaults to keyboard controls.
 
 #### Keyboard Controls
-**W** - 
+**Up Arrow** - Jump
+**Left Arrow** - Move Left
+**Right Arrow** - Move Right
+**Spacebar** - Shoot, Begin Game, Restart Game
+
+#### XBox 360 Controller Controls
+**Joystick** - Move Left and Right
+**A** - Jump
+**X** - Shoot
+**Start** - Begin Game, Restart, Game
