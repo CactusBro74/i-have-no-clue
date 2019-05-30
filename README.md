@@ -80,7 +80,7 @@ Chests and keys are usually in hard-to-reach places that require some form of pr
 Chests grant 100 points when collected.
 
 ### Miscellaneous Features
-Some features didn't fit into a category, so I'm just including them down here
+Some features didn't fit into a category, so I'm just including them down here:
 
 #### Warps
 ![Warp](https://github.com/CactusBro74/i-have-no-clue/raw/master/assets/images/github-images/Warp.png "Warp")
