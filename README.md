@@ -27,14 +27,45 @@ Controls are split into two sections: the keyboard controls and the XBox 360 con
 **Start** - Begin Game, Restart, Game
 
 ### The Game
+![alt text](https://github.com/CactusBro74/i-have-no-clue/raw/master/assets/images/github-images/Gameplay.png "Gameplay")
 
 #### Objective
 The objective of the game is to reach the flag at the end of each level.
 
 #### Score
-Your score is counted in the top right of the screen. There are two things that can give you score.
+Your score is counted in the top right of the screen. There are 3 things that can give you score.
 
 ##### Gems
 The gems in this game are similar to coins in most games.
 
 ![alt text](https://github.com/CactusBro74/i-have-no-clue/raw/master/assets/images/github-images/Gem.png "Gem")
+
+Collecting a gem will grant you 10 points.
+
+##### Enemies
+There are two types of enemies in the game:
+
+###### Basic Enemies
+![alt text](https://github.com/CactusBro74/i-have-no-clue/raw/master/assets/images/github-images/BasicEnemy.png "Basic Enemy")
+
+These enemies will move in one direction until they run into something, in which case they will turn around. However, they do not stay on platforms and instead fall off.
+
+###### Platform Enemies
+![alt text](https://github.com/CactusBro74/i-have-no-clue/raw/master/assets/images/github-images/PlatformEnemy.png "Platform Enemy")
+
+These enemies move in a similar fashion to the basic enemies, but they stay on platforms and turn around when they reach the edge of a platform.
+
+
+Both enemy types will damage you on contact, and can be killed by being hit once by a bullet. 
+Killing either type of enemy grants you 20 points.
+
+###### Chests
+![alt text](https://github.com/CactusBro74/i-have-no-clue/raw/master/assets/images/github-images/Chest.png "Chest")
+
+Chests begin each stage in a locked state, and only open once a key has been collected.
+
+![alt text](https://github.com/CactusBro74/i-have-no-clue/raw/master/assets/images/github-images/Key.png "Key")
+
+Chests and keys are usually in hard-to-reach places that require some form of problem-solving to obtain.
+
+Chests grant 100 points when collected.
