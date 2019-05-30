@@ -36,4 +36,5 @@ Your score is counted in the top right of the screen. There are two things that 
 
 ##### Gems
 The gems in this game are similar to coins in most games.
+
 ![alt text](https://github.com/CactusBro74/i-have-no-clue/raw/master/assets/images/github-images/Gem.png "Gem")
