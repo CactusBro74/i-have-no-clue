@@ -10,14 +10,20 @@ Controls are split into two sections: the keyboard controls and the XBox 360 con
 
 #### Keyboard Controls
 **Up Arrow** - Jump
+
 **Left Arrow** - Move Left
+
 **Right Arrow** - Move Right
+
 **Spacebar** - Shoot, Begin Game, Restart Game
 
 #### XBox 360 Controller Controls
 **Joystick** - Move Left and Right
+
 **A** - Jump
+
 **X** - Shoot
+
 **Start** - Begin Game, Restart, Game
 
 ### The Game
@@ -30,4 +36,4 @@ Your score is counted in the top right of the screen. There are two things that 
 
 ##### Gems
 The gems in this game are similar to coins in most games.
-![alt text](https://github.com/CactusBro74/i-have-no-clue/raw/master/assets/images/Gem.png "Gem")
+![alt text](https://github.com/CactusBro74/i-have-no-clue/raw/master/assets/images/github-images/Gem.png "Gem")
