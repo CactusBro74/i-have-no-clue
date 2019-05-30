@@ -30,6 +30,7 @@ Controls are split into two sections: the keyboard controls and the XBox 360 con
 When the player shoots during a game, it shoots a bullet in the direction the player is facing. The bullets de-spawn after 1.5 seconds or when they hit a tile or an enemy. Hitting an enemy will kill it and grant you score (See "_Scoring_" section for more information)
 
 ## The Game
+![Start Screen](https://github.com/CactusBro74/i-have-no-clue/raw/master/assets/images/github-images/StartScreen.png "Start Screen")
 ![Gameplay](https://github.com/CactusBro74/i-have-no-clue/raw/master/assets/images/github-images/Gameplay.png "Gameplay")
 
 ### How 2 Win Da Game
