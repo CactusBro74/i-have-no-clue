@@ -91,3 +91,6 @@ Warps are an interesting feature. Running into one will instantly warp you to a 
 These can only be used once and are often used as part of a puzzle, so be sure to use it wisely.
 
 ## Downloads:
+To download the most current version, click [here](https://github.com/CactusBro74/i-have-no-clue/releases/download/v0.1.0/I.Have.No.Clue.v0.1.0.exe)
+
+To select a release version, click [here](https://github.com/CactusBro74/i-have-no-clue/releases)
